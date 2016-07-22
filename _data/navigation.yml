@@ -1,0 +1,72 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "People"
+  url: "/people/"
+  side: left
+  dropdown:
+  - title: "Permanent staff"
+    url: "/people/permanent/"
+  - title: "PhD students"
+    url: "/people/phd/"
+  - title: "Post-docs"
+    url: "/people/postdocs/"
+  - title: "Non-permanent engineer"
+    url: "/people/engineer/"
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "Atlantos"
+    url: "/projects/atlantos/"
+  - title: "Drakkar"
+    url: "/projects/drakkar/"
+  - title: "Geo-OCAPI"
+    url: "/projects/geoocapi/"
+  - title: "Assim"
+    url: "/projects/assim/"
+  - title: "SWOT"
+    url: "/projects/swot/"
+  - title: "CHAOCEAN"
+    url: "/projects/chaocean/"
+  - title: "SARAL/Altika"
+    url: "/projects/altika/"
+  - title: "OST/ST"
+    url: "/projects/ostst/"
+  - title: "OCCIPUT"
+    url: "/projects/occiput/"
+
+- title: Code
+  url: "/code/"
+  side: left
+  dropdown:
+  - title: "DCM"
+    url: "/code/dcm/"
+  - title: "CDFTOOLS"
+    url: "/code/cdftools/"
+  - title: "SESAM"
+    url: "/code/sesam/"
+  - title: "oocgcm"
+    url: "/code/oocgcm/"
+
+- title: "Publications"
+  url: "/pub/"
+  side: left
+
+- title: "News"
+  url: "/news/"
+  side: left
+ 
+- title: "Job offers"
+  url: "/jobs/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

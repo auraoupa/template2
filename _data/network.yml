@@ -1,0 +1,26 @@
+- menu_name: "Links"
+
+- name: "LGGE"
+  url: "http://lgge.osug.fr/"
+  class: "network-entypo"
+  title: "LGGE"
+
+- name: "CNRS"
+  url: "http://www.cnrs.fr/"
+  class: "services-newsletter"
+  title: "CNRS"
+
+- name: "Université Joseph Fourier"
+  url: "http://www.ujf-grenoble.fr/"
+  class: "rss-link"
+  title: "UJF"
+
+- name: "OSUG"
+  url: "http://obs.ujf-grenoble.fr"
+  class: "sitemap-link"
+  title: "OSUG"
+
+- name: "CNES"
+  url: "http://www.cnes.fr"
+  class: "sitemap-link"
+  title: "CNES"
